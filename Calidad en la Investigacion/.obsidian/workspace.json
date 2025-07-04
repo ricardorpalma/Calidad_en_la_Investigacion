@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "bb9fe81ffb247677",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e51845b07e2fc5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3a40a215f369841",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calidad de la Investigación y Taller de Tesis MLO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Calidad de la Investigación y Taller de Tesis MLO"
+            }
+          },
+          {
+            "id": "575bdb93ff64374e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Template_Posgrado_UTN___GITIA.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Template_Posgrado_UTN___GITIA"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7564d3dc4bf053a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "87211ec7a9f1196a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "691c6af6a174fc72",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "96fd5685dbf02ccf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "eeb0cdf3493f2232",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "120b17fba4073c15",
+    "type": "split",
+    "children": [
+      {
+        "id": "f78a3a9e0cd2e188",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ed4ce32c0e68676",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Template_Posgrado_UTN___GITIA.pdf",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Template_Posgrado_UTN___GITIA"
+            }
+          },
+          {
+            "id": "b0a0309e9f2b9d58",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Digital Twins/Digital Twins for Life Cycle.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Digital Twins for Life Cycle"
+            }
+          },
+          {
+            "id": "74f8080c4b23b73d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "7eeb3a620ccf3178",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Digital Twins/Digital Twins for Life Cycle.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Digital Twins for Life Cycle"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "575bdb93ff64374e",
+  "lastOpenFiles": [
+    "tesis.pdf",
+    "Calidad de la Investigación y Taller de Tesis MLO.md",
+    "Template_Posgrado_UTN___GITIA.pdf",
+    "Sociedad 5.0.md",
+    "Primera Reunión con Florencia Parlanti.md",
+    "Pasted image 20241022113542.png",
+    "Pasted image 20240801201053.png",
+    "Logistica 4.0/Tesis Final Diego Manchini.pdf",
+    "Industria 4.0 Nanoethics.md",
+    "Annotations for tesis M. Silveira.md",
+    "Annotations for Tesis Final Diego Manchini.md",
+    "Dempster Shafer/Dempster Shafer Definiciones.md",
+    "Dempster Shafer",
+    "Digital Twins/Computador Cuántico.md",
+    "Digital Twins/Ideas Digital Twins.md",
+    "Digital Twins/Digital Twins for Life Cycle.md",
+    "Logistica 4.0/Logistica 4.0 y Aplicación de Tecnología.md",
+    "Digital Twins",
+    "Logistica 4.0",
+    "Pasted image 20241017211546.jpg",
+    "LEAP SEI.md",
+    "Generative artificial intelligence in supply chain and operations management a capability based framework for analysis and implementationo.md",
+    "Maestría en Logística.md",
+    "Internacionales.md",
+    "Umberto Eco vs ChatGPT.md",
+    "Marca Bolivia.md",
+    "Anotaciones.md"
+  ]
+}
